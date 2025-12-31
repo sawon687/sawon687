@@ -64,12 +64,13 @@ Focused on building clean and maintainable code for real-world applications.
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/sawon687">
-    <img src="https://img.shields.io/badge/linkedin.com/in/sawon-islam-6a27482a3?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/sawon687" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- Facebook -->
-  <a href="https://facebook.com/sawon687">
-    <img src="https://img.shields.io/badge/facebook.com/sawon.sawon.3538?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://facebook.com/sawon687" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 <br />
