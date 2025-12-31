@@ -53,10 +53,23 @@ Focused on building clean and maintainable code for real-world applications.
 
 <!-- ================= GitHub Stats ================= -->
 <br />
+## 📊 Relevant GitHub Stats
+
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5b467545d1252e68da7a43da356071eb3fc3ac9788356e693f84ac1b3e586ad2/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7361776f6e363837267468656d653d73796e746877617665" width="600" />
-  
+  <!-- GitHub Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawon687&theme=dracula" alt="Profile Details" width="600"/>
 </p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=dracula" alt="Top Languages" width="400"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawon687&theme=dracula" alt="GitHub Streak" width="600"/>
+</p>
+
 <br />
 <!-- ================= Social Links ================= -->
 <p align="center">
