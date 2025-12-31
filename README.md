@@ -57,19 +57,22 @@ Focused on building clean and maintainable code for real-world applications.
 
 ## 📊 Relevant GitHub Stats
 
+## 📊 Relevant GitHub Stats
+
 <p align="center">
-  <!-- Modern GitHub Profile Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sawon687&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="600"/>
+  <!-- GitHub Profile Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawon687&theme=radical" width="600"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages (Modern style) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="400"/>
-</p>
+  <!-- Total Public Repos -->
+  <img src="https://img.shields.io/github/repo-size/sawon687/sawon687?style=for-the-badge&logo=github" alt="Total Public Repos"/>
 
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawon687&theme=radical" alt="GitHub Streak" width="600"/>
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/sawon687?style=for-the-badge&logo=github" alt="Followers"/>
+
+  <!-- Top Language (Alternative) -->
+  <img src="https://img.shields.io/github/languages/top/sawon687?style=for-the-badge" alt="Top Language"/>
 </p>
 
 
