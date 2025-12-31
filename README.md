@@ -65,11 +65,11 @@ Focused on building clean and maintainable code for real-world applications.
   </a>
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sawon687">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin.com/in/sawon-islam-6a27482a3?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- Facebook -->
   <a href="https://facebook.com/sawon687">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/facebook.com/sawon.sawon.3538?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 <br />
