@@ -44,14 +44,7 @@ Focused on building clean and maintainable code for real-world applications.
 </p>
 
 <!-- ================= Social Links ================= -->
-## 🌐 Social Links
-<p>
-  <a href="https://github.com/sawon687"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="25"/></a>
-  <a href="https://linkedin.com/in/sawon687"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="25"/></a>
-  <a href="https://facebook.com/your-facebook-username"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" height="25"/></a>
-</p>
-
-<!-- ================= GitHub Stats ================= -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sawon687&show_icons=true&theme=tokyonight" />
 </p>
@@ -61,6 +54,8 @@ Focused on building clean and maintainable code for real-world applications.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=tokyonight" />
 </p>
+
+
 
 
 
