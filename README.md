@@ -49,16 +49,6 @@ Focused on building clean and maintainable code for real-world applications.
 
 
 ## 📊 Relevant GitHub Stats
-<p align="center">
-  <!-- Total Contributions / commits -->
-  <img src="https://img.shields.io/github/stats/count/sawon687?label=Total+Contributions" alt="Total Contributions" />
-
-  <!-- Top Languages -->
-  <img src="https://img.shields.io/github/languages/top/sawon687" alt="Top Languages" />
-
-  <!-- Commit Activity -->
-  <img src="https://img.shields.io/github/commit-activity/y/sawon687" alt="Commit Activity" />
-</p>
 
 
 <p align="center">
@@ -66,11 +56,15 @@ Focused on building clean and maintainable code for real-world applications.
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://img.shields.io/github/languages/top/sawon687" alt="Top Languages" />
 
-  <!-- Public Repos -->
-  <img src="https://img.shields.io/github/repos/sawon687" alt="Public Repos" />
+
+  <!-- Total Public Repos -->
+  <img src="https://img.shields.io/github/repo-size/sawon687/some-repo?label=Repo+Size" alt="Repo Size" />
+
+  <!-- Top Language alternative -->
+  <img src="https://img.shields.io/github/languages/code-size/sawon687/some-repo" alt="Code Size by Language" />
+
+
 
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/sawon687?label=Followers" alt="Followers" />
