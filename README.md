@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sawon687/profile-assets/main/banner.png" alt="Banner" />
+  <img src="https://i.ibb.co/0yZsWYTZ/Chat-GPT-Image-Dec-31-2025-04-42-30-PM.png" alt="Banner" />
 </p>
