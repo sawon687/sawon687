@@ -53,9 +53,7 @@ Focused on building clean and maintainable code for real-world applications.
 
 <!-- ================= GitHub Stats ================= -->
 <br />
-## 📊 Relevant GitHub Stats
 
-## 📊 Relevant GitHub Stats
 
 ## 📊 Relevant GitHub Stats
 
