@@ -48,27 +48,30 @@ Focused on building clean and maintainable code for real-world applications.
 
 
 
-## 📊 Relevant GitHub Stats
+
 
 
 <!-- ================= GitHub Stats ================= -->
 <br />
 ## 📊 Relevant GitHub Stats
 
+## 📊 Relevant GitHub Stats
+
 <p align="center">
-  <!-- GitHub Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawon687&theme=dracula" alt="Profile Details" width="600"/>
+  <!-- Modern GitHub Profile Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sawon687&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="600"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=dracula" alt="Top Languages" width="400"/>
+  <!-- Top Languages (Modern style) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="400"/>
 </p>
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawon687&theme=dracula" alt="GitHub Streak" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawon687&theme=radical" alt="GitHub Streak" width="600"/>
 </p>
+
 
 <br />
 <!-- ================= Social Links ================= -->
