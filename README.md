@@ -99,17 +99,14 @@ Focused on building clean and maintainable code for real-world applications.
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sawon-islam-6a27482a3/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-al-jihad-sawon-6a27482a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/sawon.sawon.3538" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/sawon687" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  
 </p>
 
 
