@@ -63,13 +63,7 @@ Focused on building clean and maintainable code for real-world applications.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawon687&theme=dracula" width="650"/>
 </p>
 
-<p align="center">
-  <!-- Top Languages (modern style) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=dracula&hide=html,css" width="450"/>
-  &nbsp;&nbsp;
-  <!-- GitHub Contributions -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sawon687&show_icons=true&count_private=true&theme=dracula" width="600"/>
-</p>
+
 
 <br />
 
