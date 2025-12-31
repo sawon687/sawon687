@@ -58,15 +58,17 @@ Focused on building clean and maintainable code for real-world applications.
 <p align="center">
 
 
-  < <!-- Total Public Repos -->
-  <img src="https://img.shields.io/github/repo-size/sawon687/some-repo?label=Repo+Size" alt="Repo Size" />
-
-  <!-- Top Language alternative -->
-  <img src="https://img.shields.io/github/languages/code-size/sawon687/some-repo" alt="Code Size by Language" />
-
-
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/sawon687?label=Followers" alt="Followers" />
+<p align="center">
+  <a href="https://github.com/sawon687">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sawon687">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/sawon687">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
+
 
 
