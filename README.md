@@ -61,5 +61,19 @@ Focused on building clean and maintainable code for real-world applications.
 </p>
 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawon687&theme=dark" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://img.shields.io/github/languages/top/sawon687" alt="Top Languages" />
+
+  <!-- Public Repos -->
+  <img src="https://img.shields.io/github/repos/sawon687" alt="Public Repos" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/sawon687?label=Followers" alt="Followers" />
+</p>
 
 
