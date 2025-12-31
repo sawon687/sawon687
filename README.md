@@ -43,7 +43,7 @@ Focused on building clean and maintainable code for real-world applications.
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<!-- ================= Social Links ================= -->
+
 
 
 
@@ -51,24 +51,28 @@ Focused on building clean and maintainable code for real-world applications.
 ## 📊 Relevant GitHub Stats
 
 
+<!-- ================= GitHub Stats ================= -->
+<br />
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawon687&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawon687&theme=synthwave" width="600" />
 </p>
-
+<br />
+<!-- ================= Social Links ================= -->
 <p align="center">
-
-
-<p align="center">
+  <!-- GitHub -->
   <a href="https://github.com/sawon687">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sawon687">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <!-- Facebook -->
   <a href="https://facebook.com/sawon687">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+<br />
 
 
 
