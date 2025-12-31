@@ -58,12 +58,11 @@ Focused on building clean and maintainable code for real-world applications.
 <p align="center">
 
 
-  <!-- Total Public Repos -->
+  < <!-- Total Public Repos -->
   <img src="https://img.shields.io/github/repo-size/sawon687/some-repo?label=Repo+Size" alt="Repo Size" />
 
   <!-- Top Language alternative -->
   <img src="https://img.shields.io/github/languages/code-size/sawon687/some-repo" alt="Code Size by Language" />
-
 
 
   <!-- Followers -->
