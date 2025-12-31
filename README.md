@@ -47,21 +47,6 @@ Focused on building clean and maintainable code for real-world applications.
 
 
 
-<!-- Relevant GitHub Stats -->
-<p align="center">
-  <!-- Total Contributions / commits / followers -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sawon687&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawon687&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=tokyonight" />
-</p>
 
 ## 📊 Relevant GitHub Stats
 <p align="center">
