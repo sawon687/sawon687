@@ -44,27 +44,12 @@ Focused on building clean and maintainable code for real-world applications.
 </p>
 
 <!-- ================= Social Links ================= -->
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawon687&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawon687&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=tokyonight" />
-</p>
 
 
-<!-- GitHub Stats -->
+
+<!-- GitHub Contribution Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sawon687&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawon687&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=tokyonight" />
 </p>
 
 
