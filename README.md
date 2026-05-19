@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/pvd6FQ9B/banndesawon1.png"  
+  <img src="https://i.ibb.co.com/m5zxy7cz/github-Banner.png"  
        alt="Banner" 
        style="width:100%; max-width:1200px; height:auto;" />
 </p>
