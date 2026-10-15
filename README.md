@@ -62,33 +62,54 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
 </p>
 
 ---
-<!-- ================= GitHub Contribution Snake Animation ================= -->
-<h3 align="center">🐍 Contribution Activity Snake</h3>
+<!-- ================= GitHub Stats ================= -->
+<br />
+
+
+
+## 📊 My GitHub Stats 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sawon687/sawon687/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <!-- GitHub Profile Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawon687&theme=dracula" width="650"/>
+</p>
+
+
+
+<br />
+
+<p align="center">
+  <!-- Public Repos -->
+  <a href="https://github.com/sawon687?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Public%20Repos-36-blue?style=for-the-badge&logo=github" alt="Public Repos"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Followers -->
+  <a href="https://github.com/sawon687?tab=followers" target="_blank">
+    <img src="https://img.shields.io/badge/Followers-XX-green?style=for-the-badge&logo=github" alt="Followers"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Top Language -->
+  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Top Language"/>
+  &nbsp;&nbsp;
+  <!-- Contributions -->
+  <img src="https://img.shields.io/badge/Contributions-🔥-red?style=for-the-badge" alt="Contributions"/>
 </p>
 
 <br />
 
-<!-- ================= Interactive Activity Graph ================= -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawon687&theme=purple&hide_border=true&area=true&bg_color=0D1117&color=7AA2F7&line=7DCFFF&point=FFFFFF" width="98%" alt="Contribution Graph" />
-</div>
-
-<br />
-
-<!-- ================= Premium Badges & Highlights ================= -->
 <p align="center">
-  <a href="https://github.com/sawon687?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/PUBLIC%20REPOS-36-7AA2F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Public Repos"/>
-  </a>
-  &nbsp;&nbsp;
+  <!-- Social Links -->
   <a href="https://github.com/sawon687" target="_blank">
-    <img src="https://img.shields.io/github/stars/sawon687?style=for-the-badge&logo=github&color=BB9AF7&labelColor=0D1117" alt="Total Stars" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MAIN%20STACK-NEXT.JS%20%7C%20TS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117" alt="Main Stack"/>
+  <a href="https://www.linkedin.com/in/md-al-jihad-sawon-6a27482a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SYSTEM-FULL%20STACK%20%26%20CLOUD-FF9E64?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" alt="Cloud Stack"/>
+  <a href="https://www.facebook.com/sawon.sawon.3538" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
 </p>
