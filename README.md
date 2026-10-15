@@ -1,107 +1,83 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/bjV8TLZ9/Gemini-Generated-Image-hct61phct61phct6.jpg"  
+  <img src="https://i.ibb.co.com/bjV8TLZ9/Gemini-Generated-Image-hct61phct61phct6.jpg" 
        alt="Banner" 
-       style="width:100%; max-width:1200px; height:auto;" />
+       style="width:100%; max-width:1200px; height:auto; border-radius:10px;" />
 </p>
 
+<!-- ================= Header ================= -->
+<h1 align="center">Hi 👋, I'm MD Al Jihad Sawon</h1>
+<h3 align="center">🚀 Full Stack Developer | Web Engineer</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-al-jihad-sawon-6a27482a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sawon687" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/sawon.sawon.3538" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
-
-<!-- ================= Name & Designation ================= -->
-# Hi 👋, I'm MD Al Jihad Sawon
-### Full Stack Developer
+<br />
 
 <!-- ================= About Me ================= -->
 ## 👨‍💻 About Me
-I am a ** Full Stack Developer** from Bangladesh.  
-I enjoy building responsive and scalable web applications.  
-Passionate about learning new technologies and creating real-world projects.  
-Focused on building clean and maintainable code for real-world applications.
+I am a passionate **Full Stack Developer** based in Bangladesh, specializing in building high-performance, scalable, and modern web applications. 
+
+- 🎓 **B.Sc. in Computer Science & Engineering**
+- 💻 Specialized in **Full-Stack Engineering & Microservices Architecture**
+- ⚡ Focus on clean code, database optimization, and intuitive UI/UX experiences.
+
+---
 
 <!-- ================= Current Activities ================= -->
 ## 🚀 Current Activities
-- 🌱 Exploring **Next.js**  
-- 🏗️ Working on a **Tourism Website**  
-- 🔥 Developing full-stack projects using **React, Node.js & MongoDB**  
-- 📚 Learning advanced **backend optimization & authentication**  
+- 🏗️ Deep diving into **Vector Databases & AI Integration**
+- 🐳 Scaling application deployment workflows with **Docker & AWS**
+- 🔥 Building full-stack production systems with **Next.js (App Router), PostgreSQL & Prisma**
+- ⚡ Optimizing high-concurrency backend services using **TypeScript & Node.js**
 
-<!-- ================= Skills ================= -->
-## 🛠️ Skills
+---
 
-### 🎨 Frontend
+<!-- ================= Tech Stack & Skills ================= -->
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Frontend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend Stack" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,firebase" alt="Backend Stack" />
 </p>
 
-### 🧰 Tools & Others
+### ☁️ DevOps, Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode" alt="DevOps Stack" />
 </p>
 
+---
 
-
-
-
-
-
-
-
-<!-- ================= GitHub Stats ================= -->
-<br />
-
-
-
-## 📊 My GitHub Stats 
+<!-- ================= GitHub Analytics ================= -->
+## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Profile Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawon687&theme=dracula" width="650"/>
 </p>
 
-
-
 <br />
 
 <p align="center">
-  <!-- Public Repos -->
   <a href="https://github.com/sawon687?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Public%20Repos-36-blue?style=for-the-badge&logo=github" alt="Public Repos"/>
   </a>
   &nbsp;&nbsp;
-  <!-- Followers -->
-  <a href="https://github.com/sawon687?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/Followers-XX-green?style=for-the-badge&logo=github" alt="Followers"/>
-  </a>
+  <img src="https://img.shields.io/badge/Top%20Language-TypeScript%20%2F%20JavaScript-yellow?style=for-the-badge&logo=typescript&logoColor=white" alt="Top Language"/>
   &nbsp;&nbsp;
-  <!-- Top Language -->
-  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Top Language"/>
-  &nbsp;&nbsp;
-  <!-- Contributions -->
-  <img src="https://img.shields.io/badge/Contributions-🔥-red?style=for-the-badge" alt="Contributions"/>
+  <img src="https://img.shields.io/badge/Main%20Stack-Full%20Stack-green?style=for-the-badge&logo=react" alt="Main Stack"/>
 </p>
-
-<br />
-
-<p align="center">
-  <!-- Social Links -->
-  <a href="https://github.com/sawon687" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/md-al-jihad-sawon-6a27482a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/sawon.sawon.3538" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  
-</p>
-
-
-
