@@ -10,7 +10,7 @@
   <h1>Hi 👋, I'm MD Al Jihad Sawon</h1>
   <p>
     <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Full+Stack+Software+Engineer;Next.js+%26+MERN+Stack+Specialist;Building+Scalable+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vcenter=true&width=550&lines=Full+Stack+Developer;Next.js+%26+TypeScript+Specialist;Building+Scalable+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
     </a>
   </p>
 
@@ -41,12 +41,12 @@
       <p>I am a passionate <b>Full Stack Developer</b> based in Bangladesh, focused on building high-performance, scalable, and intuitive web applications.</p>
       <ul>
         <li>🎓 <b>Education:</b> B.Sc. in Computer Science & Engineering</li>
-        <li>💻 <b>Specialization:</b> Full-Stack Engineering, Next.js Ecosystem & Backend Systems</li>
-        <li>⚡ <b>Core Philosophy:</b> Clean Code, Optimized Database Queries, and Exceptional UX</li>
+        <li>💻 <b>Specialization:</b> Full-Stack Web Development, Next.js Ecosystem & Backend Architecture</li>
+        <li>⚡ <b>Core Philosophy:</b> Clean Code, Database Optimization, and Exceptional UX</li>
         <li>📍 <b>Location:</b> Dhaka, Bangladesh</li>
       </ul>
     </td>
- <td width="40%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%" />
     </td>
   </tr>
@@ -56,10 +56,10 @@
 
 <!-- ================= Current Focus ================= -->
 ## 🚀 What I'm Working On
-* 🏗️ Deep diving into **Vector Databases & AI Integration**
-* 🐳 Scaling application deployments using **Docker & Cloud Workflows**
-* 🔥 Developing full-stack production platforms with **Next.js (App Router), PostgreSQL & Prisma**
-* ⚡ Optimizing concurrent backend microservices with **TypeScript & Node.js**
+- 🏗️ Deep diving into **Vector Databases & AI Integration**
+- 🐳 Scaling application deployments using **Docker & Cloud Workflows**
+- 🔥 Developing full-stack production platforms with **Next.js (App Router), PostgreSQL & Prisma**
+- ⚡ Optimizing concurrent backend microservices with **TypeScript & Node.js**
 
 ---
 
