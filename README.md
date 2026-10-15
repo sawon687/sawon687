@@ -67,29 +67,45 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
 <!-- ================= GitHub Analytics ================= -->
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawon687&show_icons=true&theme=dracula&rank_icon=percentile&hide_border=true&count_private=true" width="48%" alt="Sawon's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawon687&theme=dracula&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sawon687&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=7aa2f7&icon_color=7dcfff&text_color=a9b1d6&bg_color=0f1419" width="410" alt="Sawon's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=7aa2f7&text_color=a9b1d6&bg_color=0f1419" width="370" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
-<!-- ================= Quick Badges & Highlights ================= -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawon687&theme=tokyonight&hide_border=true&background=0f1419&stroke=7aa2f7&ring=7dcfff&fire=ff9e64" width="98%" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<!-- GitHub Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawon687&theme=tokyonight&hide_border=true&area=true&bg_color=0f1419" width="98%" alt="Contribution Graph" />
+</div>
+
+<br />
+
+<!-- ================= Interactive Highlights & Badges ================= -->
 <p align="center">
   <a href="https://github.com/sawon687?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/sawon687?style=for-the-badge&logo=github&color=5865F2&labelColor=1e1e2e" alt="Total Stars" />
+    <img src="https://img.shields.io/badge/Public%20Repos-36-3178C6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f1419" alt="Public Repos"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sawon687?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Public%20Repos-36-00B4D8?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e" alt="Public Repos"/>
+  <a href="https://github.com/sawon687" target="_blank">
+    <img src="https://img.shields.io/github/stars/sawon687?style=for-the-badge&logo=github&color=7AA2F7&labelColor=0f1419" alt="Total Stars" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Top%20Stack-TypeScript%20%7C%20Next.js-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e1e2e" alt="Top Stack"/>
+  <img src="https://img.shields.io/badge/Main%20Stack-Next.js%20%7C%20TypeScript-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0f1419" alt="Main Stack"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=1e1e2e" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Architecture-Full%20Stack%20%26%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0f1419" alt="Cloud Stack"/>
 </p>
