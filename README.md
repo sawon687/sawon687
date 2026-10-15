@@ -100,8 +100,8 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
 
   <!-- Animated Contribution Snake -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/sawon687/sawon687/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-  </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawon687&theme=tokyo-night&hide_border=true" width="100%" alt="Sawon's Contribution Graph" />
+</p>
 </div>
 
 <br />
