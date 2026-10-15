@@ -77,7 +77,7 @@
 
 #### 🌐 Frontend & UI Engine
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,shadcnui,html,css&perline=8" alt="Frontend Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,shadcn,html,css&perline=8" alt="Frontend Stack" />
 </p>
 
 #### ⚙️ Backend & Databases
