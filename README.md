@@ -62,10 +62,8 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
 </p>
 
 ---
-<!-- ================= GitHub Stats ================= -->
+<!-- ================= GitHub Stats & Summary ================= -->
 <br />
-
-
 
 ## 📊 My GitHub Stats 
 
@@ -73,8 +71,6 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
   <!-- GitHub Profile Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawon687&theme=dracula" width="650"/>
 </p>
-
-
 
 <br />
 
@@ -86,20 +82,20 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
   &nbsp;&nbsp;
   <!-- Followers -->
   <a href="https://github.com/sawon687?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/Followers-XX-green?style=for-the-badge&logo=github" alt="Followers"/>
+    <img src="https://img.shields.io/badge/Followers-Sawon-green?style=for-the-badge&logo=github" alt="Followers"/>
   </a>
   &nbsp;&nbsp;
   <!-- Top Language -->
-  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Top Language"/>
+  <img src="https://img.shields.io/badge/Top%20Language-TypeScript%20%2F%20JavaScript-yellow?style=for-the-badge&logo=typescript&logoColor=white" alt="Top Language"/>
   &nbsp;&nbsp;
-  <!-- Contributions -->
-  <img src="https://img.shields.io/badge/Contributions-🔥-red?style=for-the-badge" alt="Contributions"/>
+  <!-- Main Stack -->
+  <img src="https://img.shields.io/badge/Main%20Stack-Full%20Stack-red?style=for-the-badge&logo=react&logoColor=white" alt="Main Stack"/>
 </p>
 
 <br />
 
+<!-- Social Links -->
 <p align="center">
-  <!-- Social Links -->
   <a href="https://github.com/sawon687" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -111,5 +107,4 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
   <a href="https://www.facebook.com/sawon.sawon.3538" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  
 </p>
