@@ -32,26 +32,33 @@
 
 <br />
 
+
 <!-- ================= About Me ================= -->
 ## 👨‍💻 About Me
 
-<table border="0" style="border: none;">
+<table border="0" style="border: none; width: 100%;">
   <tr>
     <td width="60%" valign="top">
-      <p>I am a passionate <b>Full Stack Developer</b> based in Bangladesh, focused on building high-performance, scalable, and intuitive web applications.</p>
-      <ul>
+      <p>
+        I am a passionate <b>Full Stack Software Engineer</b> based in Dhaka, Bangladesh. I specialize in crafting high-performance, scalable, and resilient web applications with modern architectures.
+      </p>
+      <ul style="list-style: none; padding-left: 0;">
         <li>🎓 <b>Education:</b> B.Sc. in Computer Science & Engineering</li>
-        <li>💻 <b>Specialization:</b> Full-Stack Web Development, Next.js Ecosystem & Backend Architecture</li>
-        <li>⚡ <b>Core Philosophy:</b> Clean Code, Database Optimization, and Exceptional UX</li>
-        <li>📍 <b>Location:</b> Dhaka, Bangladesh</li>
+        <li>💻 <b>Specialization:</b> Next.js Ecosystem, TypeScript & Backend Systems</li>
+        <li>⚡ <b>Core Focus:</b> Clean Architecture, Database Optimization & Seamless UX</li>
+        <li>🌐 <b>Location:</b> Dhaka, Bangladesh</li>
       </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Open%20To-Collaborations-7aa2f7?style=flat-square&logo=github&labelColor=1a1b26" alt="Open to Collaboration" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Status-Building%20SaaS-9ece6a?style=flat-square&logo=rocket&labelColor=1a1b26" alt="Status" />
+      </p>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%" />
     </td>
   </tr>
 </table>
-
 ---
 
 <!-- ================= Current Focus ================= -->
