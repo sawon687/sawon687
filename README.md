@@ -62,49 +62,32 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
 </p>
 
 ---
-<!-- ================= GitHub Stats & Summary ================= -->
-<br />
-
-## 📊 My GitHub Stats 
+<!-- ================= GitHub Analytics ================= -->
+## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Profile Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawon687&theme=dracula" width="650"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sawon687&show_icons=true&theme=dracula&rank_icon=percentile&hide_border=true&count_private=true" width="48%" alt="Sawon's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawon687&theme=dracula&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
 
 <br />
 
+<!-- ================= Quick Badges & Highlights ================= -->
 <p align="center">
-  <!-- Public Repos -->
   <a href="https://github.com/sawon687?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Public%20Repos-36-blue?style=for-the-badge&logo=github" alt="Public Repos"/>
+    <img src="https://img.shields.io/github/stars/sawon687?style=for-the-badge&logo=github&color=5865F2&labelColor=1e1e2e" alt="Total Stars" />
   </a>
   &nbsp;&nbsp;
-  <!-- Followers -->
-  <a href="https://github.com/sawon687?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/Followers-Sawon-green?style=for-the-badge&logo=github" alt="Followers"/>
+  <a href="https://github.com/sawon687?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Public%20Repos-36-00B4D8?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e" alt="Public Repos"/>
   </a>
   &nbsp;&nbsp;
-  <!-- Top Language -->
-  <img src="https://img.shields.io/badge/Top%20Language-TypeScript%20%2F%20JavaScript-yellow?style=for-the-badge&logo=typescript&logoColor=white" alt="Top Language"/>
+  <img src="https://img.shields.io/badge/Top%20Stack-TypeScript%20%7C%20Next.js-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e1e2e" alt="Top Stack"/>
   &nbsp;&nbsp;
-  <!-- Main Stack -->
-  <img src="https://img.shields.io/badge/Main%20Stack-Full%20Stack-red?style=for-the-badge&logo=react&logoColor=white" alt="Main Stack"/>
-</p>
-
-<br />
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://github.com/sawon687" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/md-al-jihad-sawon-6a27482a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/sawon.sawon.3538" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=1e1e2e" alt="Focus"/>
 </p>
