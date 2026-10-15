@@ -66,7 +66,7 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
 <h3 align="center">🐍 Contribution Activity Snake</h3>
 
 <p align="center">
-  <img src="https://snk-generator.vercel.app/api/snake?github_username=sawon687&theme=dark" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/sawon687/sawon687/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 <br />
@@ -92,4 +92,3 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SYSTEM-FULL%20STACK%20%26%20CLOUD-FF9E64?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" alt="Cloud Stack"/>
 </p>
-
