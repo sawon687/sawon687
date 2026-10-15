@@ -9,9 +9,9 @@
 <div align="center">
   <h1>Hi 👋, I'm MD Al Jihad Sawon</h1>
   <p>
-    <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vcenter=true&width=550&lines=Full+Stack+Developer;Next.js+%26+TypeScript+Specialist;Building+Scalable+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
-    </a>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vcenter=true&width=550&lines=Full+Stack+Software+Engineer;Next.js+%26+TypeScript+Specialist;Building+Scalable+Web+Applications;Optimized+Backend+Systems" alt="Typing SVG" />
+</a>
   </p>
 
   <!-- Social Links -->
