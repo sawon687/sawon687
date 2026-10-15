@@ -66,7 +66,7 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
 <h3 align="center">🐍 Contribution Activity Snake</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/master/svg/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://metacubex-github-readme-stats.vercel.app/api/snake?username=sawon687&theme=dark" alt="Snake Animation" width="100%" />
 </p>
 
 <br />
