@@ -66,14 +66,14 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
 <h3 align="center">🐍 Contribution Activity Snake</h3>
 
 <p align="center">
-  <img src="https://metacubex-github-readme-stats.vercel.app/api/snake?username=sawon687&theme=dark" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/sawon687/sawon687/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 <br />
 
 <!-- ================= Interactive Activity Graph ================= -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawon687&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=7AA2F7&line=7DCFFF&point=FFFFFF" width="98%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawon687&theme=purple&hide_border=true&area=true&bg_color=0D1117&color=7AA2F7&line=7DCFFF&point=FFFFFF" width="98%" alt="Contribution Graph" />
 </div>
 
 <br />
