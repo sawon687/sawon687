@@ -46,8 +46,8 @@
         <li>📍 <b>Location:</b> Dhaka, Bangladesh</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime/share/@sawon687?theme=tokyonight&hide_border=true" alt="Coding Time" width="100%" error="this.style.display='none'"/>
+ <td width="40%" align="center" valign="middle">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%" />
     </td>
   </tr>
 </table>
