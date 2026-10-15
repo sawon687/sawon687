@@ -9,11 +9,11 @@
 
 <!-- ================= Name & Designation ================= -->
 # Hi 👋, I'm MD Al Jihad Sawon
-### Junior MERN Full Stack Developer
+### Full Stack Developer
 
 <!-- ================= About Me ================= -->
 ## 👨‍💻 About Me
-I am a **Junior MERN Full Stack Developer** from Bangladesh.  
+I am a ** Full Stack Developer** from Bangladesh.  
 I enjoy building responsive and scalable web applications.  
 Passionate about learning new technologies and creating real-world projects.  
 Focused on building clean and maintainable code for real-world applications.
