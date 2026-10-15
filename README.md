@@ -54,9 +54,9 @@
         <img src="https://img.shields.io/badge/Status-Building%20SaaS-9ece6a?style=flat-square&logo=rocket&labelColor=1a1b26" alt="Status" />
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%" />
-    </td>
+ <td width="40%" align="center" valign="middle">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-4268337-3561000.png" alt="Coding Illustration" width="100%" style="border-radius: 8px;" />
+</td>
   </tr>
 </table>
 ---
