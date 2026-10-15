@@ -62,32 +62,6 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
 </p>
 
 ---
-
-
-<!-- ================= GitHub Analytics ================= -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sawon687&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=7aa2f7&icon_color=7dcfff&text_color=a9b1d6&bg_color=0f1419" width="410" alt="Sawon's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawon687&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=7aa2f7&text_color=a9b1d6&bg_color=0f1419" width="370" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawon687&theme=tokyonight&hide_border=true&background=0f1419&stroke=7aa2f7&ring=7dcfff&fire=ff9e64" width="98%" alt="GitHub Streak" />
-</div>
-
-<br />
-
 <!-- ================= GitHub Contribution Snake Animation ================= -->
 <h3 align="center">🐍 Contribution Activity Snake</h3>
 
@@ -118,3 +92,6 @@ I am a passionate **Full Stack Developer** based in Bangladesh, specializing in 
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SYSTEM-FULL%20STACK%20%26%20CLOUD-FF9E64?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" alt="Cloud Stack"/>
 </p>
+
+
+
